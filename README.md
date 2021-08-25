@@ -7,7 +7,7 @@ This repository contains code associated to ETHCC 21 talk : Minting your sanitar
 
 The following projects are included in this repository 
 
-* [nanos-app-vax](tree/master/nanos-app-vax/) : The Nano S application used to create a receipt of your Digital Green Certificate that will be used by the smart contract to mint the privacy oriented version
-* [vax-contract](tree/master/vax-contract/) : The Ethereum smart contract minting the privacy oriented version of the Digital Green Certificate
-* [vax-test-app](tree/master/vax-test-app/) : A sample web appilcation that can be used to scan an existing pass and mint it on the go
+* [nanos-app-vax](../../tree/master/nanos-app-vax/) : The Nano S application used to create a receipt of your Digital Green Certificate that will be used by the smart contract to mint the privacy oriented version
+* [vax-contract](../../tree/master/vax-contract/) : The Ethereum smart contract minting the privacy oriented version of the Digital Green Certificate
+* [vax-test-app](../../tree/master/vax-test-app/) : A sample web appilcation that can be used to scan an existing pass and mint it on the go
 
