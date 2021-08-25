@@ -9,7 +9,7 @@ Your device needs to have an endorsement signed by Ledger to run this applicatio
 
 ## Application documentation 
 
-The set of APDU commands supported by the application and the format of the receipt produced and handled by the smart contract is described in [doc/](tree/master/doc/)
+The set of APDU commands supported by the application and the format of the receipt produced and handled by the smart contract is described in [doc/](../../tree/master/nanos-app-vax/doc/)
 
 ## Building the application
 
@@ -27,7 +27,7 @@ For reference, the following git commits have been used to produce those hashes 
 
 ## Using the application
 
-Test applications to parse a Digital Green Certificate and verify a receipt are available in the [test/](tree/master/test/) directory
+Test applications to parse a Digital Green Certificate and verify a receipt are available in the [test/](../../tree/master/nanos-app-vax/test/) directory
 
 ## Updating the Digital Green Certificates trust list
 
