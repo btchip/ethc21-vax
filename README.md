@@ -3,7 +3,7 @@
 
 This repository contains code associated to ETHCC 21 talk : Minting your sanitary pass for fun and privacy, providing a proof of concept to securely mint a privacy oriented version of your [Digital Green Certificate](https://github.com/eu-digital-green-certificates/dgc-overview) using your Ledger Nano S as a Trusted Computing proxy
 
-[Talk](https://youtu.be/L_FmIWuwXco) | [Slides](https://www.hardwarewallet.com/tmp/EthCC%204%20-%20Fun%20with%20sanitary%20pass_2.pdf)
+[Talk](https://youtu.be/L_FmIWuwXco) | [Slides](../../tree/master/slides/EthCC%204%20-%20Fun%20with%20sanitary%20pass_2.pdf)
 
 The following projects are included in this repository 
 
